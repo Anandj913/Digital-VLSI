@@ -1,2 +1,2 @@
 # Digital-VLSI
-Solution of all assignment of course VLSI lab [EC39004]
+Contain all the assignment and it's solution for the course VLSI lab [EC39004]
